@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Personal de Luana Iparraguirre</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            padding: 50px;
+            background-color: #4CAF50;
+            color: white;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 3em;
+        }
+        section {
+            margin: 20px 0;
+        }
+        .friend-message {
+            background-color: #ffeb3b;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        .friend-message h2 {
+            margin-top: 0;
+        }
+        .bfdi-images {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+        .bfdi-images img {
+            max-width: 100px;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Luana Iparraguirre</h1>
+        <p>Fan de Regretevator y "See you in my 19th life"</p>
+    </header>
+
+    <section>
+        <div class="friend-message">
+            <h2>Para mi mejor amigo Manuel</h2>
+            <p>Se que nuestro aniversario de mejores amigos ya pasó, pero hoy en EE.UU celebran el día del mejor amigo, por eso, te hago esto de regalo</p>
+        </div>
+        <div class="bfdi-images">
+            <https://www.pinterest.com/pin/72550243990359767/>
+            <https://www.pinterest.com/pin/579134833362998386/>
+            <https://www.pinterest.com/pin/356065914305614295/>
+            <https://www.pinterest.com/pin/300615343908055962/>
+            <https://www.pinterest.com/pin/254031235225575118/>
+            <https://www.pinterest.com/pin/331929435051721547/>
+            <https://www.pinterest.com/pin/102808803983007260/>
+            <https://www.pinterest.com/pin/152207662399608535/>
+            <https://www.pinterest.com/pin/377809856264362873/>
+            <https://www.pinterest.com/pin/329466529004644379/>
+            <https://www.pinterest.com/pin/377809856264362873/>
+            <https://www.pinterest.com/pin/356065914306314799/>
+            <https://www.pinterest.com/pin/240872280063991556/>
+        </div>
+    </section>
+</body>
+</html>
